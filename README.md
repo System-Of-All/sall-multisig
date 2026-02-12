@@ -12,9 +12,60 @@ The SALL Multi-Sig Wallet repository defines the **architecture, security model,
 
 This repository is part of the System Of All ecosystem and aligns with its constitutional architecture and governance.
 
----
+
 
 ## Project Structure
 
 The repository organizes content into the following areas:
+
+/architecture — System architecture and design
+/security — Threat model and key security posture
+/specification — Multi-Sig protocol definitions
+/implementation — Reference code and SDKs
+/integrations — Blockchain integration details
+/tests — Test scenarios and tooling
+/docs — Usage documentation
+CONTRIBUTING.md — Contribution guidelines
+CODE_OF_CONDUCT.md — Community code of conduct
+
+
+
+## What This Project Is
+
+The SALL Multi-Sig Wallet is:
+
+- An **infrastructure building block**
+- Designed for **enterprise and institutional use**
+- Governed via ecosystem architecture and standards
+- Open-source under MIT License (code and docs)
+
+
+
+## What This Project Is Not
+
+- Not a hosted wallet service  
+- Not a turnkey custody product  
+- Not financial or investment advice  
+- Not a live deployment
+
+
+
+## Getting Started
+
+1. Read `/architecture/overview.md`
+2. Explore the security model in `/security/`
+3. Review the protocol spec in `/specification/`
+4. Examine sample implementations in `/implementation/`
+
+
+
+## Governance and Review
+
+This repository adheres to the System Of All governance model:
+
+- Architectural changes must follow branch rules
+- CODEOWNERS review is required
+- All decisions should be recorded where applicable
+
+
 
